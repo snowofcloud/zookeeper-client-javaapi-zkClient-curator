@@ -14,17 +14,21 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
+        <!--zookeeper原生客户端-->
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
             <version>3.4.12</version>
         </dependency>
+        <!--zookeeper原生客户端-->
+        <!--zkclient-->
         <dependency>
             <groupId>com.101tec</groupId>
             <artifactId>zkclient</artifactId>
             <version>0.10</version>
         </dependency>
-
+        <!--zkclient-->
+        <!--curator-->
         <dependency>
             <groupId>org.apache.curator</groupId>
             <artifactId>curator-framework</artifactId>
@@ -35,6 +39,7 @@
             <artifactId>curator-recipes</artifactId>
             <version>4.0.0</version>
         </dependency>
+        <!--curator-->
     </dependencies>
     <build>
         <plugins>
