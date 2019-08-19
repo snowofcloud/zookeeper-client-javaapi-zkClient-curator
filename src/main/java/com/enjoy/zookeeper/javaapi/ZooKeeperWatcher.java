@@ -7,9 +7,7 @@ import java.util.List;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by VULCAN on 2018/11/7.
- */
+
 public class ZooKeeperWatcher implements Watcher {
 
     /** 定义原子变量 */

@@ -4,9 +4,7 @@ import org.I0Itec.zkclient.ZkClient;
 
 import java.util.List;
 
-/**
- * Created by VULCAN on 2018/11/7.
- */
+
 public class ZkClientOperator {
 
     /** zookeeper地址 */
